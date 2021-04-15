@@ -1,1 +1,8 @@
 Pool Id us-east-1_pyxcF8wJb
+App client id 5o67irocutmt96bq2bbogc2t7c
+
+
+arn:aws:dynamodb:us-east-1:130942196024:table/Rides
+
+https://4oghqie7hi.execute-api.us-east-1.amazonaws.com/prod
+
